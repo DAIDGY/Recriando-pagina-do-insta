@@ -1,5 +1,5 @@
 # Recriando-pagina-do-insta
- Desafio - Recriando a página do instsgram
+ Desafio - Recriando a página do instagram
 
 ## Sobre
 _________________________________________________________________________
